@@ -1,0 +1,4 @@
+[29-Mar-2021 23:47:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/aeterea1/toptoursdmc.com/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home1/aeterea1/toptoursdmc.com/wp-content/plugins/hello.php on line 69
